@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>WSocks VPN Updates</title>
+    <description>Official update feed for WSocks VPN</description>
+    <language>ru</language>
+
+    <item>
+      <title>WSocks VPN 1.0.0</title>
+      <description><![CDATA[
+- Inno + NetSparkle update channel enabled.
+      ]]></description>
+      <pubDate>Mon, 05 May 2026 1:00:00 +0000</pubDate>
+      <enclosure
+        url="https://github.com/Eph3drine/wsocks_releases/releases/download/v1.0.0/WSocksVPN-Windows-Setup-1.0.0.exe"
+        sparkle:version="1.0.0"
+        sparkle:shortVersionString="1.0.0"
+        type="application/octet-stream"
+        length="61358453" />
+    </item>
+  </channel>
+</rss>
